@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.0",
   "url": "https://github.com/infomatchoc-droid/chenevieres-eq-updates/releases/latest",
-  "notes": "Correctif : son haché en phase linéaire avec une bande dynamique. Manuel en anglais."
+  "notes": "Console par bande, vue console en relief avec vu-mètres, recherche de presets, 18 presets créatifs, portugais."
 }
