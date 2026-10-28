@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "url": "https://github.com/infomatchoc-droid/chenevieres-eq-updates/releases/latest",
-  "notes": "Chènevières EQ 2.1 : installation Mac sans Terminal, AAX signé pour Pro Tools (Mac et Windows), presets en dossiers, lien des auteurs, bouton TAP, plaque gravée avec votre numéro d'exemplaire.",
+  "notes": "Chènevières EQ 2.2 : nouveau look (boutons laiton, cadre, télé du preset), photo de fond, consoles Précision 82 et Quadra, Alt + clic = bande dynamique, spectre figé, presets voix parlée, hébreu, russe et ukrainien.",
   "don": "https://www.helloasso.com/associations/chenevieres-productions/formulaires/2",
   "instagram": "https://www.instagram.com/studio_des_chenevieres/"
 }
